@@ -1,3 +1,4 @@
+
  Clonador de Sites
 
 Esse script em Python serve pra baixar o HTML de qualquer site público e salvar localmente.  
@@ -64,3 +65,4 @@ Próximas ideias
 Feito por mim
 
 Leonardo  — 17 anos, estudando programação e cibersegurança.
+
